@@ -1,0 +1,6 @@
+Spock      12345 
+Picard     23456 
+Data       34567 
+Riker      45678 
+Troi       56789 
+Kirk       67890
